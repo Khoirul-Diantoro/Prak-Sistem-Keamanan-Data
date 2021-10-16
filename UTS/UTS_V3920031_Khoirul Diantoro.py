@@ -9,7 +9,7 @@ b = 5 # nilai b
 def menu(): # Menu Pilihan 
         print()
         print("=================================")
-        print("  Caesar Cipher $ Affine Cipher  ")
+        print("  Caesar Cipher & Affine Cipher  ")
         print("=================================")
         print("1. Enkripsi ")
         print("2. Dekripsi")
